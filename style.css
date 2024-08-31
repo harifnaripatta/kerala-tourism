@@ -1,0 +1,15 @@
+.about-right {
+  text-align: center;
+}
+.about-right ol {
+  width: 100px;
+  margin: 0 auto;
+}
+li a {
+  text-decoration: none;
+  color: #000;
+  line-height: 1.7;
+}
+.contact {
+  margin-top: 30px;
+}
